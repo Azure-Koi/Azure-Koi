@@ -1,5 +1,5 @@
-### Hi there 👋
-xddd
+### Hello, welcome to my page, if your looking for something of value, your on the wrong page
+
 <!--
 **Azure-Koi/Azure-Koi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
